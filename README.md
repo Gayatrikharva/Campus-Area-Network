@@ -87,8 +87,9 @@ The design follows the **three-tier hierarchical network model** — Core, Distr
 
 ## 👤 Author
 
-**Your Name**  
-[GitHub](https://github.com/your-username) • [LinkedIn](https://linkedin.com/in/your-profile)
+Gayatri Kharva
+https://github.com/Gayatrikharva?tab=repositories
+https://www.linkedin.com/in/gayatrikharva27/
 
 ---
 
